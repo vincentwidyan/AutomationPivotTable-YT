@@ -1,5 +1,5 @@
 # AutomationPivotTable-YT
-Please find my Excel Data for you to practice | Automation Excel Vlookup 
+Please find my Excel Data for you to practice | Automation Pivot Table
 
 ## Part #1 | Bisa Pivot Table Excel dalam 5 Menit
 Bisa Pivot Table Excel dalam 5 Menit | #01 Automasi Pivot Table
